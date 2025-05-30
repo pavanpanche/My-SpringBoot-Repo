@@ -1,4 +1,4 @@
-package My.Junit4Examples;
+package MyApp;
 
 /**
  * Hello world!

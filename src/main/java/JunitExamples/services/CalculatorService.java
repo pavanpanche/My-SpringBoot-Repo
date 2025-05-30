@@ -1,4 +1,4 @@
-package My.Junit4Examples.services;
+package JunitExamples.services;
 
 public class CalculatorService {
 

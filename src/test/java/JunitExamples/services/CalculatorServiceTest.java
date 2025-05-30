@@ -1,4 +1,4 @@
-package My.Junit4Examples.services;
+package JunitExamples.services;
 
 import org.junit.*;
 
@@ -20,7 +20,7 @@ public class CalculatorServiceTest {
     @Test
     public void  addTwoNumbersTest(){
         System.out.println("addTwONumberTest");
-        int result =CalculatorService.addTwoNumbers(12,45);
+        int result = CalculatorService.addTwoNumbers(12,45);
         // Expected result
         int expected =57;
         Assert.assertEquals(expected, result);
