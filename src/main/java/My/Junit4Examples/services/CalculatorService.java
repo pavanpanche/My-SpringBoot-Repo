@@ -1,4 +1,4 @@
-package MyApp.management.services;
+package My.Junit4Examples.services;
 
 public class CalculatorService {
 
